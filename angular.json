@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IW-Angular"
+    }
+  },
+  "defaultProject": "IW-Angular",
+  "cli": {
+    "analytics": "b8c63313-55c9-4787-9378-e784d72b3990"
+  }
 }
